@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+C:\Users\user\Desktop\Layered Architecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\666787642.index
+\caseStudy\src\main\java
+C:\Users\user\Desktop\Layered Architecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3773696682.index
+\OnlineShoppingSystem\src\main\java
+C:\Users\user\Desktop\Layered Architecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4235507781.index
+\OnlineShoping\src\main\java
+C:\Users\user\Desktop\Layered Architecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2996334167.index
+\caseStudy\src\main\java
+C:\Users\user\Desktop\Layered Architecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2919134597.index
+\LayeredArchitectureDemo\src\main\java
+C:\Users\user\Desktop\Layered Architecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\743707557.index
+\ShoppingApp\src\main\java
